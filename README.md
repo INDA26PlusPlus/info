@@ -15,3 +15,4 @@ Webbversion: https://inda26plusplus.github.io/info/
 * 2026-09-04 08.00 - 1537
 
 ## Uppgifter och slides
+* [02-chess](assignments/02-chess) ([slides](assignments/02-chess/slides.pdf))
