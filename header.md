@@ -12,6 +12,17 @@ Webbversion: [inda26plusplus.github.io/info/](https://inda26plusplus.github.io/i
 
 ## Inbokade övningar
 
-* 2026-09-04 08.00 - 1537
+* 2026-09-04 08.00 - [1537](https://www.kth.se/places/room/id/7beef522-ce4c-4926-98bd-73eed4956ed9)
+* 2026-09-11 08:00 - [1537](https://www.kth.se/places/room/id/7beef522-ce4c-4926-98bd-73eed4956ed9)
+* 2026-09-18 08:00 - [1537](https://www.kth.se/places/room/id/7beef522-ce4c-4926-98bd-73eed4956ed9)
+* 2026-09-25 08:00 - [4423](https://www.kth.se/places/room/id/c26833a0-f874-4b2e-9f65-46d9aef0e4d1)
+* 2026-10-02 08:00 - [1537](https://www.kth.se/places/room/id/7beef522-ce4c-4926-98bd-73eed4956ed9)
+* 2026-10-09 08:00 - [4423](https://www.kth.se/places/room/id/c26833a0-f874-4b2e-9f65-46d9aef0e4d1)
+* 2026-10-30 08:00 - [4523](https://www.kth.se/places/room/id/a1b984c5-e064-403a-a7be-7f1aa4fa9690)
+* 2026-11-06 08:00 - [1537](https://www.kth.se/places/room/id/7beef522-ce4c-4926-98bd-73eed4956ed9)
+* 2026-11-13 08:00 - [4523](https://www.kth.se/places/room/id/a1b984c5-e064-403a-a7be-7f1aa4fa9690)
+* 2026-11-20 08:00 - [1537](https://www.kth.se/places/room/id/7beef522-ce4c-4926-98bd-73eed4956ed9)
+* 2026-11-27 08:00 - [1537](https://www.kth.se/places/room/id/7beef522-ce4c-4926-98bd-73eed4956ed9)
+* 2026-12-04 08:00 - [1537](https://www.kth.se/places/room/id/7beef522-ce4c-4926-98bd-73eed4956ed9)
 
 ## Uppgifter och slides
