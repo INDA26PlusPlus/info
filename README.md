@@ -1,4 +1,4 @@
-Webbversion: https://inda26plusplus.github.io/info/
+Webbversion: [inda26plusplus.github.io/info/](https://inda26plusplus.github.io/info/)
 
 ## Allmän information
 
