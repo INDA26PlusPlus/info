@@ -29,3 +29,4 @@ Webbversion: [inda26plusplus.github.io/info/](https://inda26plusplus.github.io/i
 * [02-chess](assignments/02-chess) ([slides](assignments/02-chess/slides.pdf))
 * 03-testing ([slides](assignments/03-testing/slides.pdf))
 * [04-gui](assignments/04-gui) ([slides](assignments/04-gui/slides.pdf))
+* [05-networking](assignments/05-networking) ([slides](assignments/05-networking/slides.pdf))
