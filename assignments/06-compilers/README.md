@@ -60,5 +60,5 @@ Andra saker att tänka på:
 
 Några användbara resurser:
 * [Slides från genomgången](slides.pdf)
-* [Bra bok om kompilatorer](https://www3.nd.edu/~dthain/compilerbook/compilerbook.pdf)
+* [Bra bok om kompilatorer](https://dthain.github.io/books/compiler/)
 * [Wikipediaartikel om rekursiv medåkning](https://en.wikipedia.org/wiki/Recursive_descent_parser)
