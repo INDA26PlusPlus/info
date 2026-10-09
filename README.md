@@ -32,3 +32,4 @@ Webbversion: [inda26plusplus.github.io/info/](https://inda26plusplus.github.io/i
 * [04-gui](assignments/04-gui) ([slides](assignments/04-gui/slides.pdf))
 * [05-networking](assignments/05-networking) ([slides](assignments/05-networking/slides.pdf))
 * [06-compilers](assignments/06-compilers) ([slides](assignments/06-compilers/slides.pdf))
+* [07-compilers](assignments/07-compilers) ([slides](assignments/07-compilers/slides.pdf))
