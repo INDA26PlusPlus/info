@@ -26,10 +26,10 @@ Webbversion: [inda26plusplus.github.io/info/](https://inda26plusplus.github.io/i
 * 2026-12-04 08:00 - [1537](https://www.kth.se/places/room/id/7beef522-ce4c-4926-98bd-73eed4956ed9)
 
 ## Uppgifter och slides
-
 * [02-chess](assignments/02-chess) ([slides](assignments/02-chess/slides.pdf))
 * 03-testing ([slides](assignments/03-testing/slides.pdf))
 * [04-gui](assignments/04-gui) ([slides](assignments/04-gui/slides.pdf))
 * [05-networking](assignments/05-networking) ([slides](assignments/05-networking/slides.pdf))
 * [06-compilers](assignments/06-compilers) ([slides](assignments/06-compilers/slides.pdf))
 * [07-compilers](assignments/07-compilers) ([slides](assignments/07-compilers/slides.pdf))
+* [08-emulator](assignments/08-emulator) ([slides](assignments/08-emulator/slides.pdf))
