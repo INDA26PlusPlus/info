@@ -34,3 +34,4 @@ Webbversion: [inda26plusplus.github.io/info/](https://inda26plusplus.github.io/i
 * [07-compilers](assignments/07-compilers) ([slides](assignments/07-compilers/slides.pdf))
 * [08-emulator](assignments/08-emulator) ([slides](assignments/08-emulator/slides.pdf))
 * [09-cryptography](assignments/09-cryptography)
+* [10-complexity](assignments/10-complexity) ([slides](assignments/10-complexity/slides.pdf))
